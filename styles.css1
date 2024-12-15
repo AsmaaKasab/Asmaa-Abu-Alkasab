@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: navy;
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
